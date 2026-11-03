@@ -3,8 +3,11 @@
 **Project by:** Ryan Barby
 
 **Scenario:** Fictional Australian allied health clinic
+
 **Framework Reference:** ACSC Essential Eight (targeting Maturity Level 1 requirements)
+
 **Endpoint Tested:** `APEX-WS01` (Windows 11 Enterprise Evaluation virtual machine in VirtualBox)
+
 **Scope Note:** This was a hands-on learning lab using a single test computer. It was not an audit of a live business or its cloud accounts.
 
 ---
