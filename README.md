@@ -1,6 +1,7 @@
 # ACSC Essential Eight Review: Apex Allied Health
 
 **Project by:** Ryan Barby
+
 **Scenario:** Fictional Australian allied health clinic
 **Framework Reference:** ACSC Essential Eight (targeting Maturity Level 1 requirements)
 **Endpoint Tested:** `APEX-WS01` (Windows 11 Enterprise Evaluation virtual machine in VirtualBox)
